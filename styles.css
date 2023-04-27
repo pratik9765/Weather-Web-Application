@@ -20,8 +20,8 @@ body{
 }
 .wrapper{
     width:100%;
-    min-height: 580px;
-    max-height: 600px;
+    min-height: 750px;
+    max-height: 800px;
     color: var(--colorLight2);
     background-image: linear-gradient(to right top, #1c3a66, #264187, #4544a4, #6f40bc, #9f2ecc);
     background-repeat: no-repeat;
