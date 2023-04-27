@@ -15,6 +15,7 @@
 body{
 
     background-image: linear-gradient(to right top, #1c3a66, #264187, #4544a4, #6f40bc, #9f2ecc);
+    background-repeat: no-repeat;
     overflow-x: hidden;
 
 }
